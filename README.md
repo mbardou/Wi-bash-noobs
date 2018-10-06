@@ -80,4 +80,4 @@ Pour information, voici quelques recommandations de logiciels utilisés dans cer
 
 - [Les projets en cours](https://mbardou.github.io/Wi-Bash_Projects/)
 
-- [Les projets à venir](https://mbardou.github.io/Wi-Bash_Projects/Projets_à_venir/)
+- [Les projets à venir](https://mbardou.github.io/Wi-Bash_Projects/Projets_%C3%A0_venir.html)
