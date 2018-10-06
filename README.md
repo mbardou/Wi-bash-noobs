@@ -71,4 +71,6 @@ Pour information, voici quelques recommandations de logiciels utilisés dans cer
 
 - Ajout des lien vers la liste des projets à venir
 
-- je ne sais pas, vous avez des idées vous ?
+- Mentionner le serveur discord et un moyen d'y acceder
+
+- Mentionner le site web central 
