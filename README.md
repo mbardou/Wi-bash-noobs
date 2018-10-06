@@ -71,6 +71,8 @@ Pour information, voici quelques recommandations de logiciels utilisés dans cer
 
 - tutos installation python/pygame + lien pygame
 
+- page du projet bureautique
+
 
 # Les liens utiles :
 
