@@ -15,10 +15,9 @@ Installez les logiciels suivants sur votre machine
 
  - [gitkraken](https://www.gitkraken.com/)
 
- - [github] (https://github.com/)
+ - [github](https://github.com/)
 
  - [arduino](https://www.arduino.cc/en/Main/Software)
-
 
  - [python3](https://www.python.org/downloads/) + [pygame]()
 
