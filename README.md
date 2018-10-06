@@ -11,24 +11,23 @@ Créez un compte github
 
 Installez les logiciels suivants sur votre machine
 
- - atom
+ - [atom](https://atom.io/)
 
- - gitkraken
+ - [gitkraken](https://www.gitkraken.com/)
 
- - un compte github
+ - [github] (https://github.com/)
 
- - arduino
+ - [arduino](https://www.arduino.cc/en/Main/Software)
 
- - python 3
 
- - python3 + pygame
+ - [python3](https://www.python.org/downloads/) + [pygame]()
 
- - pandoc
+ - [pandoc](https://github.com/jgm/pandoc/releases/tag/2.3.1) et [comment l'installer](https://pandoc.org/installing.html)
 
 ## TODO Liste du Projet
 
 - trouver des collaborateurs,
 
-- ajouter des liens pour l'aide a l'Install
+- ajouter des liens pour l'aide a l'Installation de Pygame & python3
 
 - Faire une section : Fonctionnement des projets dans wi-bash
