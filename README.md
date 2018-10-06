@@ -11,6 +11,20 @@ Créez un compte github
 
 Installez les logiciels suivants sur votre machine
 
+ - atom
+
+ - gitkraken
+
+ - un compte github
+
+ - arduino
+
+ - python 3
+
+ - python3 + pygame
+
+ - pandoc
+
 ## TODO Liste du Projet
 
 - trouver des collaborateurs,
