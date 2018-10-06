@@ -15,7 +15,7 @@ Installez les logiciels suivants sur votre machine
 
  - [gitkraken](https://www.gitkraken.com/)
 
- - [github](https://github.com/)
+ - [github](https://github.com/) ([Tuto Github/Gitkraken ici !](tutoGitKraken.md)) 
 
  - [arduino](https://www.arduino.cc/en/Main/Software)
 
