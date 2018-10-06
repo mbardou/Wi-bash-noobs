@@ -1,6 +1,6 @@
 # Accueil des nouveaux
 
-Créateur du projet : Matthieu B.
+Créateur du projet : Mathieu B.
 
 L'objectif est de fournir à tous les nouveaux les infos dont ils ont besoin pour démarrer.
 Toute bonne volonté est bienvenue, contactez moi pour participer à ce projet.
@@ -46,7 +46,7 @@ A minima, installez sur votre machine les logiciels suivant :
 
 Pour créer votre projet, vous pouvez suivre ce lien :
 
-[Créez votre projet !](tutoGitKraken.md)
+[Créez votre projet !](TutoCreationProjet.md)
 
 N'hésitez pas a le faire, même si c'est juste pour apprendre comment on fait.
 
@@ -67,10 +67,17 @@ Pour information, voici quelques recommandations de logiciels utilisés dans cer
 
 ## TODO Liste du Projet
 
-- Ajout des lien vers la liste des projets existants
+- Remplir la liste des projets a venir.
 
-- Ajout des lien vers la liste des projets à venir
+- tutos installation python/pygame + lien pygame
 
-- Mentionner le serveur discord et un moyen d'y acceder
 
-- Mentionner le site web central 
+# Les liens utiles :
+
+- [Notre serveur Discord](https://discord.gg/67ZjuyD)
+
+- [Notre site web](http://wi-bash.fr/) (en construction)
+
+- [Les projets en cours](https://mbardou.github.io/Wi-Bash_Projects/)
+
+- [Les projets à venir](https://mbardou.github.io/Wi-Bash_Projects/Projets_à_venir/)
