@@ -76,10 +76,10 @@ Pour information, voici quelques recommandations de logiciels utilisés dans cer
 
 # Les liens utiles :
 
-- [Notre serveur Discord](https://discord.gg/67ZjuyD)
-
 - [Notre site web](http://wi-bash.fr/) (en construction)
 
 - [Les projets en cours](https://mbardou.github.io/Wi-Bash_Projects/)
 
 - [Les projets à venir](https://mbardou.github.io/Wi-Bash_Projects/Projets_%C3%A0_venir.html)
+
+- **Nous possédons également un serveur discord; Dès que vous serez un membre officiel, n'hésitez pas à nous rejoindre !**
